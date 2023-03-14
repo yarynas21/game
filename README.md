@@ -17,3 +17,5 @@ All instructions how to win or lose game are in log.txt. All classes are in file
     6. help - можливі команди
 ### Tips
 In files variant1.txt, variant2.txt, variant3.txt are variants how to win game or lose with all commands
+### Example:
+<img src="https://github.com/yarynas21/game/blob/main/game6/example.png" alt="my image" width="4444">
